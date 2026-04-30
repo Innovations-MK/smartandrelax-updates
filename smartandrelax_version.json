@@ -1,0 +1,6 @@
+{
+  "version": "3.0.8",
+  "firmware": "https://raw.githubusercontent.com/Innovations-MK/smartandrelax-updates/main/downloads/firmware.bin",
+  "littlefs": "https://raw.githubusercontent.com/Innovations-MK/smartandrelax-updates/main/downloads/littlefs.bin",
+  "notes": "Neue Version verfügbar"
+}
