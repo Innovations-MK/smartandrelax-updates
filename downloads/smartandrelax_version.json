@@ -1,6 +1,6 @@
 {
   "version": "3.0.9",
-  "firmware": "https://raw.githubusercontent.com/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin",
-  "littlefs": "https://raw.githubusercontent.com/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin",
+  "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin",
+  "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin",
   "notes": "Neue Version verfügbar"
 }
