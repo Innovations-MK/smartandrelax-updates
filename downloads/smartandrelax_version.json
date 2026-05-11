@@ -1,5 +1,5 @@
 {
-  "version": "3.0.7",
+  "version": "3.0.6",
   "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin",
   "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin",
   "notes": "Aktualisierungen: Online-Updates können jetzt bequem direkt am Modul durchgeführt werden."
