@@ -1,6 +1,6 @@
 {
-  "version": "3.0.4",
-  "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin",
-  "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin",
+  "version": "3.0.61",
+  "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin?v=3.0.61",
+  "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin?v=3.0.61",
   "notes": "Aktualisierungen: Online-Updates können jetzt bequem direkt am Modul durchgeführt werden."
 }
