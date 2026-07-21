@@ -1,6 +1,6 @@
 {
-  "version": "3.1.1",
-  "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin?v=3.1.1",
-  "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin?v=3.1.1",
-  "notes": "Fix-Filterpumpenaktivierungen. Nur Updaten, sollte sich die Filterpumpe wieder selbstständig einschalten"
+  "version": "3.1.5",
+  "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin?v=3.1.5",
+  "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin?v=3.1.5",
+  "notes": "Neu: Smart Schedule - Intelligenter Zeitplan für die automatische Aufheizung des Whirlpools. Verbessert: Höhere Stabilität im Cloud-Modus bei neueren Pumpenmodellen (verhindert unerwünschte Abschaltungen von Filterpumpe und Heizung)."
 }
