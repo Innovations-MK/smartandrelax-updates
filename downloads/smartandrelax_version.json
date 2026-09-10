@@ -1,6 +1,6 @@
 {
-  "version": "3.1.5",
-  "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin?v=3.1.5",
-  "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin?v=3.1.5",
-  "notes": "Neu: Smart Schedule - Intelligenter Zeitplan für die automatische Aufheizung des Whirlpools. Verbessert: Höhere Stabilität im Cloud-Modus bei neueren Pumpenmodellen (verhindert unerwünschte Abschaltungen von Filterpumpe und Heizung)."
+  "version": "4.0.3",
+  "firmware": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/firmware.bin?v=4.0.3",
+  "littlefs": "https://cdn.jsdelivr.net/gh/Innovations-MK/smartandrelax-updates@main/downloads/littlefs.bin?v=4.0.3",
+  "notes": "Neu: Schnellere und stabilere Cloud, optimierte Steuerung und zahlreiche Verbesserungen – die neue WebApp erreichst du unter https://webapp-cloud.mk-innovations.de"
 }
